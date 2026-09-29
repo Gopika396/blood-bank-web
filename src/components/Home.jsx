@@ -209,7 +209,7 @@ function Home() {
 
           <h2>Contact LifePulse Care</h2>
 
-          <p>Phone: +91 98765 43210</p>
+          <p>Phone: +91 7411787329</p>
 
           <p>Email: lifepulsecare@gmail.com</p>
 
